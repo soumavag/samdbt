@@ -1,1 +1,0 @@
-select * from sam_dbt.jaffle_shop.customers;
